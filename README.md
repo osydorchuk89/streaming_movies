@@ -3,7 +3,7 @@
 ## Summary
 * Collected data about 2000-2021 Venice, Cannes, and Berlin festival movies and movies with Metacritic score of at least 75
 * Used Kaggle datasets on movies available on Netflix, Amazon Prime, Hulu, and Disney+ to compare how many of the movies from  my watchlist are available on each streaming platform
-* Published [the article]() on Medium summarizing key results of the analysis
+* Published [an article](https://medium.com/@oleksii.sydorchuk/how-i-tried-and-failed-to-choose-a-movie-streaming-platform-using-data-79e56508f196) on Medium summarizing key results of the analysis
 
 ## Project structure
 The project code is contained in streaming_movies.ipynb Jupyter notebooks:
